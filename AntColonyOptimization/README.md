@@ -1,6 +1,5 @@
-# Trabalho Individual – Aplicação de Metaheurística - Unidade 1
-### Discente: Kawan Vinicius Feitosa de Oliveira
-### Matricula: 20230022187
+# Aplicação de Metaheurística - Ant Colony Optimization
+### Kawan  Oliveira
 ---
 
 ## Problema de Roteamento de Entregas (Vehicle Routing Problem - VRP)
